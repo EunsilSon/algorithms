@@ -12,7 +12,8 @@
 DFS와 BFS 모두 로직은 같으나, 결과가 다른 이유는 사용하는 자료구조가 달라 꺼내는 노드의 순서가 다르기 때문이다.
 
 <br>
-[그래프 탐색 전체 코드 바로가기]()
+
+[전체 코드 바로가기](https://github.com/EunsilSon/algorithms/blob/main/DFS%EC%99%80%20BFS/GraphSearch.java)
 
 ## 재귀를 이용한 DFS
 ```java
